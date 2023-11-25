@@ -1,3 +1,3 @@
 A lazy dog is a happy dog.
 The brown fox is quick and agile.
-Test your program with various texts to observe different similarity coefficients.
+
